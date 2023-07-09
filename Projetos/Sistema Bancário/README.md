@@ -1,5 +1,8 @@
 # 🏛️Sistema Bancário
-O desafio consistia em criar um sistema bancario com as operações: sacar, depositar e visualizar extrato.
+O projeto consiste em criar um sistema bancario com as operações: sacar, depositar e visualizar extrato.
+
+## Linguagem utilizada
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## 💰Operação de depósito
 Deve ser possível depositar valores positivos. O projeto trabalha apenas com 1 usuário, dessa forma não precisa identificar número da agência e conta bancária. Todos os depósitos devem ser armazenados em uma variável e exibir na operação de extrato.
