@@ -146,8 +146,7 @@ while True:
 
     elif opcao == "6":
         # Operação de criar conta
-        teste = len(contas)
-        conta = criar_conta(AGENCIA, teste, usuarios)
+        conta = criar_conta(AGENCIA, len(contas), usuarios)
         
         if conta:
             contas.append(conta)
